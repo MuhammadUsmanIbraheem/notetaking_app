@@ -17,3 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 screeshots:
 ![weatherapp_icon](https://user-images.githubusercontent.com/73757387/103984918-ccaaca80-51a9-11eb-8305-8ddef758ac2e.PNG)
+![ss1 (1)](https://user-images.githubusercontent.com/73757387/104086788-a7d35780-527c-11eb-8ae2-13477336cdac.jpg)
+![ss1 (2)](https://user-images.githubusercontent.com/73757387/104086792-b0c42900-527c-11eb-8c78-8ea6f231f2bb.jpg)
+![ss1 (3)](https://user-images.githubusercontent.com/73757387/104086796-b752a080-527c-11eb-8e8c-0de44e6f03ab.jpg)
+![ss1 (4)](https://user-images.githubusercontent.com/73757387/104086799-bcafeb00-527c-11eb-9f1d-a83015aa6ed6.jpg)
+
